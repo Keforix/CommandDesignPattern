@@ -21,5 +21,16 @@ namespace HowAreYouFeeling
         {
             InitializeComponent();
         }
+
+        private void SwitchImage(object sender, RoutedEventArgs e)
+        {
+            string senderName = ((Button)sender).Name;
+
+            Receiver cmdReceiver = new Receiver();
+            DisplayCatCommand cmd = new DisplayCatCommand(cmdReceiver);
+            CmdExecutor executor = new CmdExecutor(cmd);
+
+            executor.ExecuteCatCommand(senderName);
+        }
     }
 }

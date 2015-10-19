@@ -1,1 +1,14 @@
 G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\bin\Debug\HowAreYouFeeling.exe.config
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\bin\Debug\HowAreYouFeeling.exe
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\bin\Debug\HowAreYouFeeling.pdb
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\HowAreYouFeeling.csprojResolveAssemblyReference.cache
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\MainWindow.g.cs
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\App.g.cs
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\HowAreYouFeeling_MarkupCompile.cache
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\HowAreYouFeeling_MarkupCompile.lref
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\MainWindow.baml
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\HowAreYouFeeling.g.resources
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\HowAreYouFeeling.Properties.Resources.resources
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\HowAreYouFeeling.csproj.GenerateResource.Cache
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\HowAreYouFeeling.exe
+G:\Jaar_3\Software_Engineering\NET\Week_3\Design_Patterns\Command_example\HowAreYouFeeling\HowAreYouFeeling\obj\Debug\HowAreYouFeeling.pdb

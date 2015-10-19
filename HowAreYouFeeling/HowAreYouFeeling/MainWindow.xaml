@@ -5,13 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HowAreYouFeeling"
         mc:Ignorable="d"
-        Title="MainWindow" Height="511.757" Width="418.033">
+        Title="MainWindow" Height="192.257" Width="199.033">
     <Grid>
-        <Image x:Name="image" HorizontalAlignment="Left" Height="389" Margin="10,10,0,0" VerticalAlignment="Top" Width="387"/>
-        <Button x:Name="awesome_btn" Content="Awesome" HorizontalAlignment="Left" Margin="10,404,0,0" VerticalAlignment="Top" Width="84" Height="67" FontSize="16" FontWeight="Bold"/>
-        <Button x:Name="tired_btn" Content="Tired" HorizontalAlignment="Left" Margin="109,404,0,0" VerticalAlignment="Top" Width="84" Height="67" FontSize="16" FontWeight="Bold"/>
-        <Button x:Name="weird_btn" Content="Weird" HorizontalAlignment="Left" Margin="211,404,0,0" VerticalAlignment="Top" Width="84" Height="67" FontSize="16" FontWeight="Bold"/>
-        <Button x:Name="hitler_btn" Content="Hitler" HorizontalAlignment="Left" Margin="310,404,0,0" VerticalAlignment="Top" Width="84" Height="67" FontSize="16" FontWeight="Bold"/>
+        <Button x:Name="awesome_btn" Content="Awesome" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="84" Height="67" FontSize="16" FontWeight="Bold" Click="SwitchImage"/>
+        <Button x:Name="tired_btn" Content="Tired" HorizontalAlignment="Left" Margin="99,10,0,0" VerticalAlignment="Top" Width="84" Height="67" FontSize="16" FontWeight="Bold" Click="SwitchImage"/>
+        <Button x:Name="weird_btn" Content="Weird" HorizontalAlignment="Left" Margin="10,82,0,0" VerticalAlignment="Top" Width="84" Height="67" FontSize="16" FontWeight="Bold" Click="SwitchImage"/>
+        <Button x:Name="hitler_btn" Content="Hitler" HorizontalAlignment="Left" Margin="97,82,0,0" VerticalAlignment="Top" Width="84" Height="67" FontSize="16" FontWeight="Bold" Click="SwitchImage"/>
 
     </Grid>
 </Window>
